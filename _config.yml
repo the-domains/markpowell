@@ -1,0 +1,28 @@
+name: markpowell
+favicon: null
+layout_spectrum: 0.1327478028833866
+typography_spectrum: 0.6087543948087841
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.714613847900182
+  lightness: 0.04839003458619118
+  saturation: 0.34969945647753775
+  rhythmicContrast: 0.8197265863418579
+purpose: []
