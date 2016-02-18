@@ -1,28 +1,40 @@
-name: markpowell
-favicon: null
-layout_spectrum: 0.1327478028833866
-typography_spectrum: 0.6087543948087841
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.714613847900182
-  lightness: 0.04839003458619118
-  saturation: 0.34969945647753775
-  rhythmicContrast: 0.8197265863418579
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.7416756
+  brandStrength: 0.8641245
+  lightness: 0.5032223
+  brandColors:
+    - '#FFFFFF'
+    - '#22AED1'
+    - '#0F142A'
+    - '#CC191F'
+    - '#015B76'
+  rhythmicContrast: 0.840494
+typography_spectrum: 0.6087543948087841
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.3141783
+favicon: null
+name: markpowell
